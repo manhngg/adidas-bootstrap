@@ -13,7 +13,7 @@ gem 'faker', '1.7.3'
 gem "kaminari"
 gem "bootstrap-sass", "3.3.7"
 # Use this to handle image uploading (13.4.1)
-gem 'carrierwave',             '1.1.0'
+gem 'carrierwave',             '1.3.2'
 gem 'mini_magick',             '4.7.0'
 gem 'fog',                     '1.40.0'
 # Use mysql as the database for Active Record
